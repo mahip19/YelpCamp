@@ -11,4 +11,6 @@ Create/Edit/Delete campgrounds.
 
 You can also make/delete a review for a specific campground.
 
+Cookies and sessions have been added so that you don't need to login every time you visit the site.
+
 Visit website: https://lit-island-70902.herokuapp.com/
